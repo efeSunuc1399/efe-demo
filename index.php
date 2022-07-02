@@ -9,7 +9,28 @@
     <title>Document</title>
 </head>
 <body>
-  
+    <div class="container mt-5">
+    <form method="POST">
+        <fieldset>
+            <div class="row gy-3 gx-5">
+                <div class="col-12 col-sm-6">
+                    <label for="textInput" class="form-label">Adınız</label>
+                    <input type="text" name="name" id="TextInput" class="form-control">
+                </div>
+                <div class="col-12 col-sm-6">
+                    <label for="textInput" class="form-label">Soyadınız</label>
+                    <input type="text" name="last-name" id="TextInput" class="form-control">
+                </div>
+                
+                <div class="form-check ms-4">
+                    <input class="form-check-input" name="is-admin" value="1" type="checkbox" id="FieldsetCheck">
+                    <label class="form-check-label" for="FieldsetCheck">Admin</label>
+                </div>
+                <button type="submit" class="btn btn-primary col-sm-3 mx-auto">Submit</button>
+            </div>
+        </fieldset>
+    </form>
+    </div>
 <script src="scripts/script.js"></script>
 </body>
 </html>
