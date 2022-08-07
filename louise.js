@@ -6,3 +6,11 @@ const myAdderFunc = function(x,y){
     return result;
 }
 // </editor-fold>
+
+// <editor-fold desc="created a new function for expirement.">
+const myExpFunc = function(x){
+    for(let i = 0; i < 10; i++){
+        console.log(x);
+    }
+}
+// </editor-fold>
