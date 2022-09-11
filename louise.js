@@ -14,3 +14,9 @@ const myExpFunc = function(x){
     }
 }
 // </editor-fold>
+
+// <editor-fold desc="created a new function for multiplying given two numbers">
+const addTwoNum = function(x,y){
+    return x * y;
+}
+// </editor-fold>
