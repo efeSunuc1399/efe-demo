@@ -17,7 +17,9 @@ const multTwoNum = function(x,y){
 // </editor-fold>
 
 // <editor-fold desc="created a new function for dividing given two numbers">
-const divTwoNum = function(x,y){
-    return x / y;
+const remainderOfTwoNum = function(x,y){
+    return x % y;
 }
 // </editor-fold>
+
+
