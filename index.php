@@ -27,7 +27,7 @@
                     <input class="form-check-input" name="is-admin" value="1" type="checkbox" id="FieldsetCheck">
                     <label class="form-check-label" for="FieldsetCheck">Admin</label>
                 </div>
-                <button type="submit" class="btn btn-primary col-sm-3 mx-auto">Submit</button>
+                <input type="submit" class="btn btn-primary col-sm-3 mx-auto">
             </div>
         </fieldset>
     </form>
