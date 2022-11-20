@@ -28,4 +28,10 @@ const efe = function(x,y){
 }
 // </editor-fold>
 
+// <editor-fold desc="added new function for main branch">
+const mainBranch = function(){
+    console.log('main branch');
+}
+// </editor-fold>
+
 
