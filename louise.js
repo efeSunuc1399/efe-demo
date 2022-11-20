@@ -22,4 +22,10 @@ const remainderOfTwoNum = function(x,y){
 }
 // </editor-fold>
 
+// <editor-fold desc="added new plugin function">
+const efe = function(x,y){
+    // some code here
+}
+// </editor-fold>
+
 
