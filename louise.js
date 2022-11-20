@@ -28,4 +28,8 @@ const efe = function(x,y){
 }
 // </editor-fold>
 
-
+// <editor-fold desc="added new function for wyatt branch">
+const wyattBranch = function(){
+    console.log('wyatt branch');
+}
+// </editor-fold>
