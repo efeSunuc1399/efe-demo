@@ -39,4 +39,3 @@ const wyattBranch = function(){
     console.log('wyatt branch');
 }
 // </editor-fold>
-    
