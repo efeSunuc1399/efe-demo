@@ -39,10 +39,4 @@ const wyattBranch = function(){
     console.log('wyatt branch');
 }
 // </editor-fold>
-
-// <editor-fold desc="added new function for efe branch">
-const efeBranch = function(){
-    console.log('efe branch');
-}
-// </editor-fold>
-
+    
