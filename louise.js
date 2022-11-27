@@ -21,21 +21,3 @@ const remainderOfTwoNum = function(x,y){
     return x % y;
 }
 // </editor-fold>
-
-// <editor-fold desc="added new plugin function">
-const efe = function(x,y){
-    // some code here
-}
-// </editor-fold>
-
-// <editor-fold desc="added new function for main branch">
-const mainBranch = function(){
-    console.log('main branch');
-}
-// </editor-fold>
-
-// <editor-fold desc="added new function for wyatt branch">
-const wyattBranch = function(){
-    console.log('wyatt branch');
-}
-// </editor-fold>
