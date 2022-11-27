@@ -28,3 +28,9 @@ const mainBranch = function(x,y){
 }
 // </editor-fold>
 
+// <editor-fold desc="created a new function for dividing given two numbers">
+const efeBranch = function(){
+  console.log('efeBranch');
+}
+// </editor-fold>
+ 
