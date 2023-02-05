@@ -33,3 +33,12 @@ const efeBranchFunc = function(x,y){
   console.log(`${x} => ${y}`)
 }
 // </editor-fold>
+
+// <editor-fold desc="created a new async function">
+const asyncFunc = async function(x){
+  for(let i = 0; i < 10; i++){
+    console.log(x);
+  }
+}
+// </editor-fold>
+
